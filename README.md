@@ -1,3 +1,8 @@
+## Organizatör
+Bu proje Zero2Heros Data Analyst / Data Science admini Yusuf Bayrak tarafından organize edilmektedir.
+
+
+
 # Flight Delays and Cancellations Data Analytics
 
 ## Project Description
@@ -34,6 +39,7 @@ This data analytics project focuses on analyzing flight delays and cancellations
 - **Machine Learning:** Scikit-Learn
 - **Data Storage:** SQLite or PostgreSQL
 - **Reporting:** Microsoft Word, Power BI
+- **optionally**: Power Point Presentation 
 
 ## Project Objectives
 - Gain a deeper understanding of the root causes of flight delays and cancellations.
@@ -44,9 +50,13 @@ This data analytics project focuses on analyzing flight delays and cancellations
 ## Outcome
 This project aims to deliver valuable insights into the realm of flight delays and cancellations within the airline industry. The analysis results can empower airline companies to enhance their operational efficiency and services, ultimately leading to an improved travel experience for passengers.
 
+
+## Organizer
+### This project is organized by **Zero2Heros** Data Analyst / Data Science admin Yusuf Bayrak.
+
 ---
 
-**Projekttitel:** Flugverspätungen und -ausfälle Datenanalyse
+# **Projekttitel:** Flugverspätungen und -ausfälle Datenanalyse
 
 ## Projekterklärung
 Dieses Datenanalyseprojekt konzentriert sich auf die Analyse von Flugverspätungen und -ausfällen mithilfe von realen Flugdaten. Der Datensatz enthält Informationen wie Flugnummern, Abflug- und Ankunftszeiten sowie die Gründe für Verspätungen oder Ausfälle. Das Projekt zielt darauf ab, Power-BI-Benutzern die Durchführung einer eingehenden Datenanalyse zu ermöglichen und interaktive Dashboards zu erstellen. Darüber hinaus soll es die häufigsten Ursachen für Flugstörungen aufdecken, indem die Häufigkeit von Flugausfällen nach Fluggesellschaft und Flugverspätungen verglichen wird.
@@ -82,6 +92,7 @@ Dieses Datenanalyseprojekt konzentriert sich auf die Analyse von Flugverspätung
 - **Maschinelles Lernen:** Scikit-Learn
 - **Datenablage:** SQLite oder PostgreSQL
 - **Berichterstellung:** Microsoft Word, Power BI
+- **Wahlweise:** Power Point Präsentation
 
 ## Projektziele
 - Vertiefte Erkenntnisse über die Ursachen von Flugverspätungen und -ausfällen gewinnen.
@@ -89,6 +100,9 @@ Dieses Datenanalyseprojekt konzentriert sich auf die Analyse von Flugverspätung
 - Anwendung fortschrittlicher Datenanalysetechniken zur Vorhersage und Verhinderung zukünftiger Störungen.
 - Bereitstellung wertvoller Vorschläge zur Verbesserung in der Luftfahrtindustrie.
 
+
 ## Ergebnis
 Dieses Projekt zielt darauf ab, wertvolle Einblicke in die Welt der Flugverspätungen und -ausfälle in der Luftfahrtindustrie zu liefern. Die Analyseergebnisse können Fluggesellschaften dabei unterstützen, ihre betriebliche Effizienz und Dienstleistungen zu verbessern und letztendlich zu einer besseren Reiseerfahrung für Passagiere beitragen.
 
+## Organisator
+Dieses Projekt wird von **Zero2Heros** Data Analyst / Data Science Gruppenadministrator **Yusuf Bayrak** organisiert.
