@@ -44,8 +44,6 @@ This project aims to provide valuable insights into flight delays and cancellati
 
 ---
 
-Şimdi de Almanca olarak çevirelim:
-
 **Projekttitel:** Flugverspätungen und -ausfälle Datenanalyse
 
 **Projektbeschreibung:**
